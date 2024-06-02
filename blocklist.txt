@@ -1,47 +1,47 @@
 # General Bullshit
-*://*.pinterest\./
+*://*.pinterest.com/*
 
 # Corpo Bullshit
-*://*.xbox\./
-*://*.amazon\./
-*://*.walmart\./
-*://*.amazongames\./
-*://*.facebook\./
-*://*.instagram\./
-*://*.twitter\./
-*://*.x\./
+*://*.xbox.com/*
+*://*.amazon.com/*
+*://*.walmart.com/*
+*://*.amazongames.com/*
+*://*.facebook.com/*
+*://*.instagram.com/*
+*://*.twitter.com/*
+*://*.x.com/*
 
 # MSM Bullshit
-*://*.msn\./
-*://*.yahoo\./
-*://*.theguardian\./
-*://*.microsoft\./
-*://*.msnbc\./
-*://*.cnbc\./
-*://*.abcnews\./
-*://*.cbsnews\./
-*://*.cnn\./
-*://*.foxnews\./
-*://*.nbc\./
-*://*.nbcnews\./
-*://*.axios\./
-*://*.politico\./
-*://*.time\./
-*://*.huffingtonpost\./
-*://*.huffpost\./
-*://*.npr\./
+*://*.msn.com/*
+*://*.yahoo.com/*
+*://*.theguardian.com/*
+*://*.microsoft.com/*
+*://*.msnbc.com/*
+*://*.cnbc.com/*
+*://*.abcnews.com/*
+*://*.cbsnews.com/*
+*://*.cnn.com/*
+*://*.foxnews.com/*
+*://*.nbc.com/*
+*://*.nbcnews.com/*
+*://*.axios.com/*
+*://*.politico.com/*
+*://*.time.com/*
+*://*.huffingtonpost.com/*
+*://*.huffpost.com/*
+*://*.npr.com/*
 
 # Culture War Bullshit
-*://*.kotaku\./
-*://*.dailybeast\./
-*://*.dailywire\./
+*://*.kotaku.com/*
+*://*.dailybeast.com/*
+*://*.dailywire.com/*
 
 # Images Bullshit
-*://*.dreamstime\./
-*://*.depositphotos\./
-*://*.gettyimages\./
-*://*.istock\./
-*://*.istockphoto\./
-*://*.shutterstock\./
-*://*.stock.adobe\./
-*://*.gettyimages\./
+*://*.dreamstime.com/*
+*://*.depositphotos.com/*
+*://*.gettyimages.com/*
+*://*.istock.com/*
+*://*.istockphoto.com/*
+*://*.shutterstock.com/*
+*://*.stock.adobe.com/*
+*://*.gettyimages.com/*
