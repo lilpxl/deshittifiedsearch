@@ -1,47 +1,47 @@
 # General Bullshit
-/^https?:\/\/([^/.]+\.)*pinterest\./
+*://*.pinterest\./
 
 # Corpo Bullshit
-/^https?:\/\/([^/.]+\.)*xbox\./
-/^https?:\/\/([^/.]+\.)*amazon\./
-/^https?:\/\/([^/.]+\.)*walmart\./
-/^https?:\/\/([^/.]+\.)*amazongames\./
-/^https?:\/\/([^/.]+\.)*facebook\./
-/^https?:\/\/([^/.]+\.)*instagram\./
-/^https?:\/\/([^/.]+\.)*twitter\./
-/^https?:\/\/([^/.]+\.)*x\./
+*://*.xbox\./
+*://*.amazon\./
+*://*.walmart\./
+*://*.amazongames\./
+*://*.facebook\./
+*://*.instagram\./
+*://*.twitter\./
+*://*.x\./
 
 # MSM Bullshit
-/^https?:\/\/([^/.]+\.)*msn\./
-/^https?:\/\/([^/.]+\.)*yahoo\./
-/^https?:\/\/([^/.]+\.)*theguardian\./
-/^https?:\/\/([^/.]+\.)*microsoft\./
-/^https?:\/\/([^/.]+\.)*msnbc\./
-/^https?:\/\/([^/.]+\.)*cnbc\./
-/^https?:\/\/([^/.]+\.)*abcnews\./
-/^https?:\/\/([^/.]+\.)*cbsnews\./
-/^https?:\/\/([^/.]+\.)*cnn\./
-/^https?:\/\/([^/.]+\.)*foxnews\./
-/^https?:\/\/([^/.]+\.)*nbc\./
-/^https?:\/\/([^/.]+\.)*nbcnews\./
-/^https?:\/\/([^/.]+\.)*axios\./
-/^https?:\/\/([^/.]+\.)*politico\./
-/^https?:\/\/([^/.]+\.)*time\./
-/^https?:\/\/([^/.]+\.)*huffingtonpost\./
-/^https?:\/\/([^/.]+\.)*huffpost\./
-/^https?:\/\/([^/.]+\.)*npr\./
+*://*.msn\./
+*://*.yahoo\./
+*://*.theguardian\./
+*://*.microsoft\./
+*://*.msnbc\./
+*://*.cnbc\./
+*://*.abcnews\./
+*://*.cbsnews\./
+*://*.cnn\./
+*://*.foxnews\./
+*://*.nbc\./
+*://*.nbcnews\./
+*://*.axios\./
+*://*.politico\./
+*://*.time\./
+*://*.huffingtonpost\./
+*://*.huffpost\./
+*://*.npr\./
 
 # Culture War Bullshit
-/^https?:\/\/([^/.]+\.)*kotaku\./
-/^https?:\/\/([^/.]+\.)*dailybeast\./
-/^https?:\/\/([^/.]+\.)*dailywire\./
+*://*.kotaku\./
+*://*.dailybeast\./
+*://*.dailywire\./
 
 # Images Bullshit
-/^https?:\/\/([^/.]+\.)*dreamstime\./
-/^https?:\/\/([^/.]+\.)*depositphotos\./
-/^https?:\/\/([^/.]+\.)*gettyimages\./
-/^https?:\/\/([^/.]+\.)*istock\./
-/^https?:\/\/([^/.]+\.)*istockphoto\./
-/^https?:\/\/([^/.]+\.)*shutterstock\./
-/^https?:\/\/([^/.]+\.)*stock.adobe\./
-/^https?:\/\/([^/.]+\.)*gettyimages\./
+*://*.dreamstime\./
+*://*.depositphotos\./
+*://*.gettyimages\./
+*://*.istock\./
+*://*.istockphoto\./
+*://*.shutterstock\./
+*://*.stock.adobe\./
+*://*.gettyimages\./
