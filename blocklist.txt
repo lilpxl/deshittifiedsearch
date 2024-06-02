@@ -18,8 +18,8 @@
 /^https?:\/\/([^/.]+\.)*axios\./
 /^https?:\/\/([^/.]+\.)*politico\./
 /^https?:\/\/([^/.]+\.)*time\./
-/^https?:\/\/([^/.]+\.)*huffingtonpost\./
-/^https?:\/\/([^/.]+\.)*huffpost\./
+*://huffingtonpost\./
+*://huffpost\./
 /^https?:\/\/([^/.]+\.)*npr\./
 /^https?:\/\/([^/.]+\.)*kotaku\./
 /^https?:\/\/([^/.]+\.)*dailybeast\./
