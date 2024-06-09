@@ -45,3 +45,7 @@
 *://*.shutterstock.com/*
 *://*.stock.adobe.com/*
 *://*.gettyimages.com/*
+
+# Garbage Gaming SItes
+*://*.kotaku.com/*
+
