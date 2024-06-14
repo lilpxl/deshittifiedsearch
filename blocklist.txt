@@ -29,7 +29,14 @@
 *://*.time.com/*
 *://*.huffingtonpost.com/*
 *://*.huffpost.com/*
-*://*.npr.com/*
+*://*.npr.org/*
+*://*.wsj.com/*
+*://*.nytimes.com/*
+*://*.bbc.com/*
+*://*.bbc.co.uk/*
+*://*.thehill.com/*
+*://*.washingtonpost.com/*
+*://*.theguardian.com/*
 
 # Culture War Bullshit
 *://*.kotaku.com/*
