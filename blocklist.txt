@@ -39,9 +39,9 @@
 *://*.theguardian.com/*
 
 # Culture War Bullshit
-*://*.kotaku.com/*
 *://*.dailybeast.com/*
 *://*.dailywire.com/*
+*://*.slate.com/*
 
 # Images Bullshit
 *://*.dreamstime.com/*
@@ -53,6 +53,6 @@
 *://*.stock.adobe.com/*
 *://*.gettyimages.com/*
 
-# Garbage Gaming SItes
+# Garbage Gaming Sites
 *://*.kotaku.com/*
 
